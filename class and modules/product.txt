@@ -1,0 +1,964 @@
+892	Total LTL Specialty Markets	OVSC	/n
+893	Total Ocean LCL	SCSP	/n
+894	Total Americas	IAMP	/n
+895	Total LTL Cross Border	OVSC	/n
+896	Total UPS Freight	OVP	/n
+897	Export PP	IAPP	/n
+898	Import Freight Collect	IEUP	/n
+899	LTL Cross Border Guam	OVP	/n
+900	Export PP	IAPC	/n
+901	Import FC	IAPC	/n
+902	Export FC	IAPC	/n
+903	Import FC	IAPP	/n
+904	LTL Standard	OVSC	/n
+905	Export FC	IAPP	/n
+906	WW/US Export Standard PP	IAMC	/n
+907	WW/US Export Express PP	IAMC	/n
+908	Import Freight Collect	IAMC	/n
+909	WW/US Export Expedited PP	IAMC	/n
+910	TB Standard Prepaid Residential	IEUC	/n
+911	WW/US Export Standard PP	IAMP	/n
+912	LTL Cross Border Guam	OVSC	/n
+913	Import Freight Collect	IAMP	/n
+914	WW/US Export Expedited PP	IAMP	/n
+915	Worldwide Prepaid	IEUC	/n
+916	Export EFC	IEUC	/n
+917	TB Express Prepaid	IEUC	/n
+918	TB Standard Prepaid Commercial	IEUC	/n
+919	Import Freight Collect	IEUC	/n
+920	Domestic Standard Residential	IEUC	/n
+921	Merchant Services	CAPC	/n
+922	i-parcel Select	IAMC	/n
+923	Worldwide Prepaid	IEUP	/n
+924	Export EFC	IEUP	/n
+925	Crossware - WorldShip Integrated	Solu	/n
+926	CS-Supply Chain Design and Optimization	Solu	/n
+927	CS-Supply Chain Management Consulting	Solu	/n
+928	Custom Brokerage Reports	Solu	/n
+929	Custom Customer Reports	Solu	/n
+930	Customer Designed Label	Solu	/n
+931	Distribution Proposal Preparation	Solu	/n
+932	Electronic Manifesting Tool	Solu	/n
+933	RFP Response - International Only	Solu	/n
+934	Host Access - All Other	Solu	/n
+935	Host Manifest Upload	Solu	/n
+936	Import Flow analysis	Solu	/n
+937	IOR/EOR Solution Development	Solu	/n
+938	Landed Cost Analysis	Solu	/n
+939	Locator API	Solu	/n
+940	My Choice Customized Alerts	Solu	/n
+941	My UPS.com	Solu	/n
+942	MyUPS.com - Signature Tracking	Solu	/n
+943	NetSuite	Solu	/n
+944	NUCAS EDI	Solu	/n
+945	OnLine Tool - Address Validation (HTML)	Solu	/n
+946	OnLine XML Tools - ROW	Solu	/n
+947	OZ Link	Solu	/n
+948	OZ Worldship	Solu	/n
+949	Paperless Invoice	Solu	/n
+950	PDF Invoice	Solu	/n
+951	Pickup API	Solu	/n
+952	PLD Upload Specs - SPF200	Solu	/n
+953	PSI - ROW Flashback	Solu	/n
+954	Quantum View API	Solu	/n
+955	Quantum View Data	Solu	/n
+956	Quantum View Data Autoload	Solu	/n
+957	Quantum View for Importers	Solu	/n
+958	Quantum View Inbound	Solu	/n
+959	Quantum View Manage	Solu	/n
+960	Quantum View Manage for Freight	Solu	/n
+961	Quantum View Notify	Solu	/n
+962	Rating API (HTML)	Solu	/n
+963	Rating API (Web Services)	Solu	/n
+964	Rating API	Solu	/n
+965	Europe - Paperless Invoice	Solu	/n
+966	Europe - Performance Reporting	Solu	/n
+967	Europe - Shipment Consolidation	Solu	/n
+968	Europe - Special Incentives	Solu	/n
+969	Europe - Special mapping of invoice files	Solu	/n
+970	Europe - Sustainability Solutions Carbon Impact Analysis	Solu	/n
+971	Europe - Sustainability Solutions Carbon Impact Statement	Solu	/n
+972	Europe - Sustainability Solutions Carbon Neutral Shipping	Solu	/n
+973	Europe - Sustainability Solutions ECO Responsibility Packaging Program	Solu	/n
+974	Europe - Third Country Returns	Solu	/n
+975	Total All Solutions	Solu	/n
+976	4295 Program Management	Solu	/n
+977	4410A Trans Dist Analysis	Solu	/n
+978	4430A Strategic Plan Process	Solu	/n
+979	4430B Network Design Req	Solu	/n
+980	4430C Sm Pkg Dist Plan Process	Solu	/n
+981	4430D Account Approval Process	Solu	/n
+982	4430E Small Package Plan Imp	Solu	/n
+983	4430F Implementation Follow-up	Solu	/n
+984	4430H Direct Ship Legacy Revisit	Solu	/n
+985	4430I Direct Ship Administration	Solu	/n
+986	4430I Direct Ship Administration	Solu	/n
+987	4432 - Visibility Solutions Other	Solu	/n
+988	4440C Work Measurement Dev	Solu	/n
+989	4440D Reports Req Identif	Solu	/n
+990	4440E Customer Training	Solu	/n
+991	4440F Proof of Concept	Solu	/n
+992	4440G Org Change Management	Solu	/n
+993	4442 Internal Initiative	Solu	/n
+994	4485 Other	Solu	/n
+995	4510 Fleet Maintenance	Solu	/n
+996	4510A Assessment	Solu	/n
+997	4510B Implementation / Train	Solu	/n
+998	4510C Post-Implementation	Solu	/n
+999	Return and Repair Proposal Preparation	Solu	/n
+1000	SAP - UPS functionality modules	Solu	/n
+1001	SAP XSI	Solu	/n
+1002	SCS - ASIST	Solu	/n
+1003	SCS - Data Manager	Solu	/n
+1004	SCS - E-Inquiry	Solu	/n
+1005	SCS - EDI 110 (Air Freight Detail and Invoice)	Solu	/n
+1006	SCS - EDI 110 - Air Freight Details and Invoice	Solu	/n
+1007	SCS - EDI 204 - Motor Carrier Shipment Information Outbound	Solu	/n
+1008	SCS - EDI 210 (Motor Carrier Freight Details and Invoice)	Solu	/n
+1009	SCS - EDI 214 - Inbound	Solu	/n
+1010	SCS - EDI 214 - Outbound	Solu	/n
+1011	SCS - EDI 310 - Ocean & Brokerage Charges	Solu	/n
+1012	SCS - EDI 315 - Status Detail - Outbound	Solu	/n
+1013	SCS - EDI 810 - Brokerage Charges Invoice - Outbound	Solu	/n
+1014	SCS - EDI 810 - Brokerage Commercial Invoice - Inbound	Solu	/n
+1015	SCS - EDI 846 - Invoice Snapshot Outbound	Solu	/n
+1016	SCS - EDI 850 (Purchase Order)	Solu	/n
+1017	SCS - EDI 850 - PO - Inbound	Solu	/n
+1018	SCS - EDI 856 - ASN Inbound	Solu	/n
+1019	SCS - EDI 856 - Ship Confirm Outbound	Solu	/n
+1020	SCS - EDI 857 (Shipment and Billing Notice)	Solu	/n
+1021	SCS - EDI 870 - Ship Order Inbound	Solu	/n
+1022	SCS - EDI 888 - Item Master Inbound	Solu	/n
+1023	SCS - EDI 944 - Receipt Confirm Outbound	Solu	/n
+1024	SCS - EDI 947 - Inventory Updates Outbound	Solu	/n
+1025	SCS - EDI 980 - Air Freight Invoice Functional Totals	Solu	/n
+1026	SCS - EDI 990 - Response to Load Tender Inbound	Solu	/n
+1027	SCS - EDI 996 - File Transfer - Parts DB Inbound	Solu	/n
+1028	SCS - EDS Software	Solu	/n
+1029	SCS - Flat File - 856U - Entry Status Update - Outbound	Solu	/n
+1030	SCS - Flat File - ASN Inbound	Solu	/n
+1031	SCS - Flat File - Commercial Invoice Inbound	Solu	/n
+1032	SCS - Flat File - File Transfer - Parts DB Inbound	Solu	/n
+1033	4520 Fleet Licensing	Solu	/n
+1034	4520A Initial License Fee	Solu	/n
+1035	4520B Annual License Fee	Solu	/n
+1036	4530 Fuel Management	Solu	/n
+1037	4610A Value Assessment Tool	Solu	/n
+1038	4610B Determine Org Strategy	Solu	/n
+1039	4610C Current Process Analysis	Solu	/n
+1040	4610D Data Gathering	Solu	/n
+1041	4610E Devel Space Allocations	Solu	/n
+1042	4610F Develop Layout Alt	Solu	/n
+1043	4610G Validate Alternatives	Solu	/n
+1044	4610H Customer Review Alt	Solu	/n
+1045	4610I Implement Alternatives	Solu	/n
+1046	4610J Follow-up	Solu	/n
+1047	4704 Data Services	Solu	/n
+1048	4715 Data Collection	Solu	/n
+1049	4720 Customer Visibility Interface Solution_Bad	Solu	/n
+1050	4720 Customer Visibility Interface Solution_BAD1	Solu	/n
+1051	4720 Customer Visibility Interface Solution_DONOTUSE	Solu	/n
+1052	4720 Customer Visibility Interface Solution_Error	Solu	/n
+1053	4730 Visibility Solutions	Solu	/n
+1054	4732 Other	Solu	/n
+1055	4733 PSI XML Tool Interface	Solu	/n
+1056	4740 Integration Services	Solu	/n
+1057	4744 Other	Solu	/n
+1058	4755 Fulfillment Services	Solu	/n
+1059	4803 Referral - Manifesting	Solu	/n
+1060	4999 Open MOU	Solu	/n
+1061	Air-Charter Import	Solu	/n
+1062	Air-Express Export	Solu	/n
+1063	Air-Express Import	Solu	/n
+1064	Air-Gold Priority Express Import	Solu	/n
+1065	Air-Preferred Export	Solu	/n
+1066	Air-Preferred Import	Solu	/n
+1067	Air-Standard Export	Solu	/n
+1068	Air-Standard Import	Solu	/n
+1069	Blue Bear	Solu	/n
+1070	Connect Ship Advisor	Solu	/n
+1071	Connect Ship Merchant	Solu	/n
+1072	Connect Ship Tool Kit	Solu	/n
+1073	Connect Ship UPS Freight Module	Solu	/n
+1074	Connect Ship Warehouse	Solu	/n
+1075	DS-Distribution Services Network	Solu	/n
+1076	eBAY	Solu	/n
+1077	EDI 824 (EFT)	Solu	/n
+1078	EMS	Solu	/n
+1079	Europe - EDIFACT MAPPING - shipping_DUP	Solu	/n
+1080	Europe - FTZ - Free Trade Zone_DUP	Solu	/n
+1081	Europe - One Label COD_DUP	Solu	/n
+1082	Europe - Other Automotive_DUP	Solu	/n
+1083	Europe - Other Sustainability Solutions	Solu	/n
+1084	Europe - Third Country Returns_DUP	Solu	/n
+1085	GMV Share	Solu	/n
+1086	Gold Priority GXF	Solu	/n
+1087	Host Access	Solu	/n
+1088	Host Access - Tracking, Time in Transit	Solu	/n
+1089	i-parcel	Solu	/n
+1090	Loftware (compressed maxicode)	Solu	/n
+1091	LUE (Link Up Enterprise)	Solu	/n
+1092	Lynx at Home	Solu	/n
+1093	Lynx Billing - e-Billing	Solu	/n
+1094	Lynx Express:Before 10:30 am Guaranteed	Solu	/n
+1095	Lynx Express:Before 9 am Guaranteed	Solu	/n
+1096	Lynx Express:Before Noon Guaranteed	Solu	/n
+1097	Lynx Express:Next Day Guaranteed	Solu	/n
+1098	Lynx Express:Saturday Delivery (all service levels)	Solu	/n
+1099	Lynx Pallet Service over 50 Kg	Solu	/n
+1100	Lynx Pallet Service up to 50Kg	Solu	/n
+1101	Lynx Same Day	Solu	/n
+1102	Lynx Shipping - CDS	Solu	/n
+1103	Lynx Shipping - e-dispatch	Solu	/n
+1104	Lynx Shipping - Host 2 Host	Solu	/n
+1105	Lynx Three Day	Solu	/n
+1106	Lynx Tracking - POD	Solu	/n
+1107	Lynx Two Day	Solu	/n
+1108	Not Available	Solu	/n
+1109	On Board Courier	Solu	/n
+1110	OnLine HTML Tools - UPS Service Center	Solu	/n
+1111	OnLine Tool - Freight Rating for UPS Freight LTL (Web Services)	Solu	/n
+1112	Oracle - UPS functionality module	Solu	/n
+1113	ParcelLink	Solu	/n
+1114	Peachtree 2005 with OLT functionality	Solu	/n
+1115	PS Ship	Solu	/n
+1116	PSI - ARS Return Match to Outbound Exception Reporting	Solu	/n
+1117	PSI - Business Process Reenginerring	Solu	/n
+1118	PSI - Cost and Time Calculator	Solu	/n
+1119	PSI - Crossware (DATALINK)	Solu	/n
+1120	PSI - Data Exchange Server	Solu	/n
+1121	PSI - Distressed Shipment Tool	Solu	/n
+1122	PSI - Electronic Signature Proof	Solu	/n
+1123	PSI - Fleet	Solu	/n
+1124	PSI - Inbound Consignee Advanced Notification (ICAN)	Solu	/n
+1125	PSI - Information Management	Solu	/n
+1126	PSI - Information Management Tracking	Solu	/n
+1127	PSI - Integration Services	Solu	/n
+1128	PSI - Network Optimization	Solu	/n
+1129	PSI - Package Design and Testing	Solu	/n
+1130	PSI - Quantum View Custom	Solu	/n
+1131	PSI - UPS Samplesure (Pharmaceutical)	Solu	/n
+1132	PSI - Warehouse Layout and Design	Solu	/n
+1133	PSI- PSI Products	Solu	/n
+1134	PS-Return and Repair Services	Solu	/n
+1135	PS-Road Courier	Solu	/n
+1136	Quantum View Inbound Address Matching	Solu	/n
+1137	Quantum View Outbound	Solu	/n
+1138	SAP2WSI (Europe Only)	Solu	/n
+1139	SCS - Automated Export System	Solu	/n
+1140	SCS - Billing Data for Freight	Solu	/n
+1141	SCS - EDI 213 (Tracking Request)	Solu	/n
+1142	SCS - EDI 214 (Tracking Response)	Solu	/n
+1143	SCS - EDI 215 (Carrier Manifest)	Solu	/n
+1144	SCS - EDI 240 (Carrier Tracking)	Solu	/n
+1145	SCS - EDI 404 (Rail Carrier Shipment Information)	Solu	/n
+1146	SCS - EDI 417 (Rail Carrier Waybill Interchange)	Solu	/n
+1147	SCS - EDI 806 (Project Schedule Report)	Solu	/n
+1148	SCS - EDI 829 (Payment Cancellation Request)	Solu	/n
+1149	SCS - EDI 840 (Request for Quotation)	Solu	/n
+1150	SCS - EDI 841 (Specifications/Technical Information)	Solu	/n
+1151	SCS - EDI 852 (Product Activity Data)	Solu	/n
+1152	SCS - EDI 855 (Purchase Order Acknowledgement)	Solu	/n
+1153	SCS - EDI 856 - Entry Status - Outbound	Solu	/n
+1154	SCS - EDI 860 (PO Change Request - Buyer Initiated)	Solu	/n
+1155	SCS - EDI 861 (Receiving Advise/Acceptance Certificate)	Solu	/n
+1156	SCS - EDI 865 (PO Change Acknowledgement/Request)	Solu	/n
+1157	SCS - EDI 869 (Order Status Inquiry)	Solu	/n
+1158	SCS - EDI 997 (Functional Acknowledgement)	Solu	/n
+1159	SCS - Flex Global View	Solu	/n
+1160	SCS - Gemini API	Solu	/n
+1161	SCS - Gemini Shipping (System or API)	Solu	/n
+1162	SCS - My Freight Proactive E-Mail Notifications	Solu	/n
+1163	SCS - My Freight Proactive Pager Notifications	Solu	/n
+1164	SCS - My Freight Rate and Service Selection	Solu	/n
+1165	SCS - My Freight Shipping	Solu	/n
+1166	SCS - My Freight Tracking	Solu	/n
+1167	SCS - UPS TradeSense	Solu	/n
+1168	ShipGear	Solu	/n
+1169	Smart Tags	Solu	/n
+1170	Trade Direct - WorldShip	Solu	/n
+1171	TradeAbility - Export License Detector (Web Services)	Solu	/n
+1172	TradeAbility - Import Compliance (Web Services)	Solu	/n
+1173	TradeAbility - Landed Cost (Web Services)	Solu	/n
+1174	TS-Educational Services	Solu	/n
+1175	TS-TradeSense	Solu	/n
+1176	UPS Freight - EDI 163 (Appointment Schedule Information)	Solu	/n
+1177	UPS Freight - EDI 821 (Remittance)	Solu	/n
+1178	UPS Freight - EDI 824 (Application Advice)	Solu	/n
+1179	UPS Freight - Flat File Invoice Acknowledgement	Solu	/n
+1180	UPS Freight - HTML Tracking	Solu	/n
+1181	UPS Freight - My UPS Freight Claims Status	Solu	/n
+1182	UPS Freight - My UPS Freight E-Bill of Lading	Solu	/n
+1183	UPS Freight - My UPS Freight Proof of Delivery	Solu	/n
+1184	UPS Freight - My UPS Freight Rating	Solu	/n
+1185	UPS Freight - My UPS Freight Reports	Solu	/n
+1186	UPS Freight - My UPS Freight Shipping	Solu	/n
+1187	UPS Freight - My UPS Freight Tracking Site	Solu	/n
+1188	UPS Freight - My UPS Freight Transit Times/Service Inquiry	Solu	/n
+1189	UPS Freight - Shipment Status Reports (Excel)	Solu	/n
+1190	UPS Freight - Signature Tracking (Web Services)	Solu	/n
+1191	UPS Freight - Signature Tracking (XML)	Solu	/n
+1192	WorldShip - Integrated (ODBC)	Solu	/n
+1193	WS Autoimport (Europe Only)	Solu	/n
+1194	Yahoo Merchant Solutions Professional	Solu	/n
+1195	Yahoo Merchant Solutions Standard	Solu	/n
+1196	Yahoo Merchant Solutions Starter	Solu	/n
+1197	Yahoo] Stores with Integrated Worldship	Solu	/n
+1198	4290 Program Management	Solu	/n
+1199	4470 Europe: Evening Del.	Solu	/n
+1200	4710 Information Mgmt	Solu	/n
+1201	4713 UPS Complete View Data	Solu	/n
+1202	Corporate Special Ops. Plan	Solu	/n
+1203	CS-Cash Management/Capital Deployment	Solu	/n
+1204	CS-Demand Responsive SC Strategies	Solu	/n
+1205	CS-Distribution Center Process Design	Solu	/n
+1206	CS-Post Merger/Acquisition SC Integration	Solu	/n
+1207	CS-SC Strategic and Operational Alignment	Solu	/n
+1208	CS-Site and Transportation Optimization	Solu	/n
+1209	CS-Supply Chain Diagnostics and Strategies	Solu	/n
+1210	CS-Supply Chain Implementation	Solu	/n
+1211	Custom Operations	Solu	/n
+1212	Domestic Pallets	Solu	/n
+1213	Domestic Same Day	Solu	/n
+1214	Early Delivery	Solu	/n
+1215	Late Pickup	Solu	/n
+1216	P-Card Light	Solu	/n
+1217	Retail Internal Channel-Drop Box Returns	Solu	/n
+1218	Retail Solutions-ADL	Solu	/n
+1219	Retail Solutions-Business Services	Solu	/n
+1220	Retail Solutions-Corporate Card	Solu	/n
+1221	Retail Solutions-Exchange	Solu	/n
+1222	Retail Solutions-Returns	Solu	/n
+1223	Undefined	Solu	/n
+1224	eBill Tool	Solu	/n
+1225	eBilling	Solu	/n
+1226	Global e-Commerce Solution	Solu	/n
+1227	OnLine XML Tools - Ship API	Solu	/n
+1228	PSI - eReports	Solu	/n
+1229	PSI - ICVS	Solu	/n
+1230	PSI - Information Management Billing	Solu	/n
+1231	PSI - Internet Control Visibility Solution (ICVS)	Solu	/n
+1232	PSI - Returns on the Web	Solu	/n
+1233	PSI - TrackPad	Solu	/n
+1234	QuickBooks	Solu	/n
+1235	Returns on the Web (Mkt Version)	Solu	/n
+1236	UPS Connect Anywhere (Canada Only)	Solu	/n
+1237	UPS Freight - Pickup Tool (Web Services)	Solu	/n
+1238	WorldEase	Solu	/n
+1239	TD Other	USTD	/n
+1240	TB Express Prepaid	IEUP	/n
+1241	WW Express Freight	IAMC	/n
+1242	Domestic Express	IEUP	/n
+1243	Domestic Standard Commercial	IEUP	/n
+1244	Domestic Standard Residential	IEUP	/n
+1245	LTL Cross Border Mexico	OVSC	/n
+1246	LTL Urgent	OVP	/n
+1247	LTL Trade Show	OVP	/n
+1248	LTL Associations	OVP	/n
+1249	LTL Volume Services	OVP	/n
+1250	LTL Cross Border Canada	OVP	/n
+1251	Import FC - Americas	IAMC	/n
+1252	LTL Cross Border Mexico	OVP	/n
+1253	LTL Cross Border Alaska	OVP	/n
+1254	LTL Cross Border Puerto Rico	OVP	/n
+1255	LTL Cross Border Virgin Islands	OVP	/n
+1256	LTL Cross Border Hawaii	OVP	/n
+1257	TL Dedicated Contract Carriage	OVP	/n
+1258	TL Dedicated Capacity	OVP	/n
+1259	LTL Cross Border Alaska	OVSC	/n
+1260	Export FC - Americas	IAMC	/n
+1261	TL Transactional Truckload	OVP	/n
+1262	UPS Freight Other	OVP	/n
+1263	LTL Day Definite Pay Guaranteed	OVSC	/n
+1264	LTL Associations	OVSC	/n
+1265	LTL Volume Services	OVSC	/n
+1266	LTL Cross Border Canada	OVSC	/n
+1267	LTL Cross Border Virgin Islands	OVSC	/n
+1268	WW Express Freight IFC	IAPC	/n
+1269	Other Products	SCSC	/n
+1270	TL Dedicated Contract Carriage	OVSC	/n
+1271	TL Dedicated Capacity	OVSC	/n
+1272	Total US Package	US	/n
+1273	TL Transactional Truckload	OVSC	/n
+1274	UPS Freight Other	OVSC	/n
+1275	Worldwide Express Freight	IAPP	/n
+1276	WW/US Export Express EFC	IAMP	/n
+1277	TD Cross Border	USTD	/n
+1278	Ground Freight	SCSP	/n
+1279	Total GRATE Forwarding	SCSG	/n
+1280	WW Express Freight IFC	IAMC	/n
+1281	UPS Express Freight	SCSC	/n
+1282	UPS Temperature True Express	SCSC	/n
+1283	LTL Standard	OVP	/n
+1284	UPS Air Freight Direct	SCSC	/n
+1285	WW/US Export Expedited EFC	IAMP	/n
+1286	UPS Temperature True Air Direct	SCSC	/n
+1287	LTL Guaranteed AM	OVP	/n
+1288	UPS Next Day Air Freight	SCSC	/n
+1289	WW Express Freight IFC	IAMP	/n
+1290	UPS Temperature True Next Day Air	SCSC	/n
+1291	UPS 2nd Day Air Freight	SCSC	/n
+1292	COD Select Auto	CAPC	/n
+1293	UPS Temperature True 2nd Day Air	SCSC	/n
+1294	LTL Guaranteed AM	OVSC	/n
+1295	Ocean LCL Premium	SCSC	/n
+1296	WW/US Express Freight	IAMP	/n
+1297	Import FC - Asia Pacific	IAPC	/n
+1298	3P3C - Asia Pacific	IAPC	/n
+1299	Ocean LCL	SCSC	/n
+1300	GABL	CAPC	/n
+1301	Ocean FCL	SCSC	/n
+1302	Import FC - Europe	IEUP	/n
+1303	Ocean Other	SCSC	/n
+1304	Total Ocean LCL	SCSC	/n
+1305	Import FC - Asia Pacific	IAPP	/n
+1306	WW Express Freight IFC	IEUC	/n
+1307	Export Prepaid - Asia Pacific	IAPP	/n
+1308	WW Express Freight IFC	IEUP	/n
+1309	Total Forwarding	SCSC	/n
+1310	WW Express Freight IFC	IAPP	/n
+1311	Worldwide Express Freight	IAPC	/n
+1312	Worldwide Express Freight	IEUP	/n
+1313	Export FC - Americas	IAMP	/n
+1314	Export Prepaid - Europe	IEUP	/n
+1315	TD Air	USTD	/n
+1316	Export FC - Europe	IEUP	/n
+1317	WW/US Export Express EFC	IAMC	/n
+1318	COD Auto	CAPC	/n
+1319	COD Auto DDO	CAPC	/n
+1320	SCS Cargo	CAPC	/n
+1321	i-parcel Select	IAPC	/n
+1322	WW/US Export Expedited EFC	IAMC	/n
+1323	TD Ocean	USTD	/n
+1324	Total Distribution	SCSC	/n
+1325	SCS - Flat File - IFTMIN - Outbound	Solu	/n
+1326	SCS - Flat File - Invoice Snapshot Outbound	Solu	/n
+1327	SCS - Flat File - Invoice Updates Outbound	Solu	/n
+1328	SCS - Flat File - Item Master Inbound	Solu	/n
+1329	SCS - Flat File - PO Inbound	Solu	/n
+1330	SCS - Flat File - Receipt Confirm Outbound	Solu	/n
+1331	SCS - Flat File - Ship Confirm Outbound	Solu	/n
+1332	SCS - Flat File - Ship Order Inbound	Solu	/n
+1333	SCS - Flex Global View	Solu	/n
+1334	SCS - Gemini Shipping (System or API)	Solu	/n
+1335	SCS - IFTMIN - Instruction Message	Solu	/n
+1336	SCS - IFTSTA - Int'l/National Multimodal Transportation Status Inbound	Solu	/n
+1337	SCS - My Freight	Solu	/n
+1338	SCS - Tracking API (HTML)	Solu	/n
+1339	SCS - Tracking API (Web Services)	Solu	/n
+1340	SCS - Tracking API (XML)	Solu	/n
+1341	Shipping API (Web Services)	Solu	/n
+1342	Shipping API	Solu	/n
+1343	Signature Tracking API (Web Services)	Solu	/n
+1344	Signature Tracking API	Solu	/n
+1345	Small Package - EDIFACT IFSTA D07B (QVD Tracking)	Solu	/n
+1346	Small Package CUSPED v99A - EDIFACT (Brokerage Charges)	Solu	/n
+1347	Small Package EDI 210 - 4030 (Domestic Billing)	Solu	/n
+1348	Small Package EDI 210 - 4030 (Import Billing)	Solu	/n
+1349	Small Package EDI 210 - 5010 (Trade Direct Billing)	Solu	/n
+1350	Small Package EDI 214 - 4010 (Tracking - QVD)	Solu	/n
+1351	Small Package EDI 215 - 4030 (Manifest)	Solu	/n
+1352	Small Package EDI 240 - 5010 (Tracking - QVD)	Solu	/n
+1353	Small Package EDI 810 (Commercial Invoice)	Solu	/n
+1354	Small Package EDI 858 - 4010 (Brokerage Charges)	Solu	/n
+1355	Small Package EDI 888 - 4010 (Brokerage Charges)	Solu	/n
+1356	Small Package PRODAT v99A - EDIFACT (Brokerage Charges)	Solu	/n
+1357	Small Package RFP Response	Solu	/n
+1358	SOP - International Regions	Solu	/n
+1359	Total UPS Freight	OVSC	/n
+1360	Distribution Services	SCSP	/n
+1361	Post Sales Service	SCSP	/n
+1362	Cargo Finance	CAPC	/n
+1363	COD Secure	CAPC	/n
+1364	COD Select Secure	CAPC	/n
+1365	COD Direct	CAPC	/n
+1366	i-parcel Select	IEUP	/n
+1367	COD Secure DDO	CAPC	/n
+1368	COD Direct DDO	CAPC	/n
+1369	Fraud Protection	CAPC	/n
+1370	Custom Bonds	CAPC	/n
+1371	Export FC - Asia Pacific	IAPP	/n
+1372	Export FC - Asia Pacific	IAPC	/n
+1373	Export FC - Europe	IEUC	/n
+1374	i-parcel Select	IEUC	/n
+1375	i-parcel Select	IAMP	/n
+1376	Import FC - Europe	IEUC	/n
+1377	Export Prepaid - Asia Pacific	IAPC	/n
+1378	Export Prepaid - Europe	IEUC	/n
+1379	i-parcel Select	IAPP	/n
+1380	Export Prepaid - Americas	IAMP	/n
+1381	Import FC - Americas	IAMP	/n
+1382	Other Products	SCSP	/n
+1383	4002 Executive Management	Solu	/n
+1384	4004 Travel Expense	Solu	/n
+1385	4110 Package Lab Engineering	Solu	/n
+1386	4120 Package Lab Testing	Solu	/n
+1387	4210 Financial	Solu	/n
+1388	4214 F&A Other	Solu	/n
+1389	4220 Asset Utilization	Solu	/n
+1390	4230 UPS Mobile Returns	Solu	/n
+1391	4240 Europe: Intl. Mail	Solu	/n
+1392	4290 Dedicated Teams	Solu	/n
+1393	4295 PM TOMS	Solu	/n
+1394	4410 SCO - TDA - Transportation Distribution Analysis	Solu	/n
+1395	4411 SCO - Customized Mapping and Visualization	Solu	/n
+1396	4412 SCO - Network Analysis/Optimization (Tier 1 - Domestic US Outbound SP)	Solu	/n
+1397	4413 ENG - Operational Opportunity Review	Solu	/n
+1398	4414 ENG - Preliminary Distribution Center Analysis	Solu	/n
+1399	4415 ProOpt Initiation	Solu	/n
+1400	SPL Proposal Preparation	Solu	/n
+1401	SPLUS Integration (& other SCS warehousing systems)	Solu	/n
+1402	Address Validation - Street Level API	Solu	/n
+1403	Street Level Address Validation API (XML)	Solu	/n
+1404	Supplier Management Proposal	Solu	/n
+1405	Supply Chain Assessment (Whiteboard Discussion)	Solu	/n
+1406	Technical Service Proposal Preparation	Solu	/n
+1407	Time in Transit API (Web Services)	Solu	/n
+1408	Time in Transit API	Solu	/n
+1409	TOPP - Transportation Outsourcing Partnership Program	Solu	/n
+1410	Tracking API	Solu	/n
+1411	Tracking API (Web Services)	Solu	/n
+1412	Tracking API	Solu	/n
+1413	Trade Direct - EDI 5010 (Trade Direct Billing)	Solu	/n
+1414	Trade Direct Proposal Preparation	Solu	/n
+1415	TradeAbility - Denied Party Screener (UPS.com)	Solu	/n
+1416	TradeAbility - Export License Detector (UPS.com)	Solu	/n
+1417	TradeAbility - Forms (UPS.com)	Solu	/n
+1418	TradeAbility - Harmonizer (UPS.com)	Solu	/n
+1419	TradeAbility - Import Compliance (UPS.com)	Solu	/n
+1420	TradeAbility - Landed Cost (UPS.com)	Solu	/n
+1421	TradeAbility API (Web Services)	Solu	/n
+1422	UPS Freight - Drop Trailer Manifest (Excel)	Solu	/n
+1423	UPS Freight - EDI 204 (BOL/Pickup Notification - LTL & FTL)	Solu	/n
+1424	UPS Freight - EDI 210 (Billing - LTL & FTL)	Solu	/n
+1425	UPS Freight - EDI 211 (BOL/Pickup Notification - LTL & FTL)	Solu	/n
+1426	UPS Freight - EDI 212 (Delivery Trailer Manifest)	Solu	/n
+1427	UPS Freight - EDI 214 (Tracking - LTL & FTL)	Solu	/n
+1428	UPS Freight - EDI 217 (LTL Loading and Route Guide)	Solu	/n
+1429	UPS Freight - EDI 820 (Remittance)	Solu	/n
+1430	UPS Freight - EDI 920 (Loss or Damage Claim)	Solu	/n
+1431	UPS Freight - EDI 926 (Claim Status)	Solu	/n
+1432	UPS Freight - EDI 990 (Response to Load Tender - LTL & FTL)	Solu	/n
+1433	4416 ProOpt Subscription	Solu	/n
+1434	4420 SCO - UPS Global Logistics Analysis(Air Frt-Small Pkg/Brokerage)	Solu	/n
+1435	4428 SCO - Vendor One Time Analysis	Solu	/n
+1436	4429 SCO - Vendor Inventory Ongoing Planning	Solu	/n
+1437	4430 SCO - Network Analysis/Optimization (Tier 2 - N. America Inbound/Outbound - Multi Mode)	Solu	/n
+1438	4431 SCO - DirectShip - Traditional	Solu	/n
+1439	4432 SCO - Other	Solu	/n
+1440	4440 ENG - Delivery/Field Service Technician BPR	Solu	/n
+1441	4441 ENG - Process Management	Solu	/n
+1442	4479 UPS Proactive Response Secure	Solu	/n
+1443	4481 UPS Returns Exchange	Solu	/n
+1444	4482 UPS Returns Pack and Collect	Solu	/n
+1445	4483 Returns Plus (In-Room PU)	Solu	/n
+1446	4484 Returns SAT	Solu	/n
+1447	4485 Undeliverable Manage Disposal	Solu	/n
+1448	4610 ENG - Warehouse Assessment and Redesign	Solu	/n
+1449	4611 Warehouse Layout Tier 2	Solu	/n
+1450	4612 Warehouse Layout Tier 3	Solu	/n
+1451	4613 ENG - Warehouse/Operations Implementation Planning and Support	Solu	/n
+1452	4614 ENG - Inventory Slotting Analysis	Solu	/n
+1453	4615 ENG - Methods, Measurement, and Metrics	Solu	/n
+1454	4620 ENG - Dedicated Project Management Team	Solu	/n
+1455	4710 ITPA - Information Management	Solu	/n
+1456	4711 UPS CompleteView Inform	Solu	/n
+1457	4712 UBD FTP Post	Solu	/n
+1458	4713 UPS CompleteView Data Management	Solu	/n
+1459	4720 Customer Visibility Interface Solutions	Solu	/n
+1460	4728 UPS CompleteView Vendor Management	Solu	/n
+1461	4729 UPS CompleteView Navigator	Solu	/n
+1462	4731 TrackPad	Solu	/n
+1463	4734 UPS CompleteView Shipping	Solu	/n
+1464	4735 UPS CompleteView Reporting	Solu	/n
+1465	4736 UPS CompleteView Confirm	Solu	/n
+1466	4737 UPS CompleteView Control	Solu	/n
+1467	4738 UPS CompleteView Analytics	Solu	/n
+1468	4739 UPS CompleteView Signature	Solu	/n
+1469	4741 AST - ShipExec/ConnectShip	Solu	/n
+1470	4742 UPS CompleteView Returns	Solu	/n
+1471	UPS Freight - Flat File Bill (Excel or TXT)	Solu	/n
+1472	UPS Freight - Flat File Bill of Lading	Solu	/n
+1473	UPS Freight - MY LTL Freight	Solu	/n
+1474	UPS Freight - Rate EDGE	Solu	/n
+1475	UPS Freight - Rating Tool (Web Services)	Solu	/n
+1476	UPS Freight - Service Performance Reports (Excel)	Solu	/n
+1477	UPS Freight - Shipping Tool (Web Services)	Solu	/n
+1478	UPS Freight - Tracking (Web Services)	Solu	/n
+1479	UPS Freight - Tracking (XML)	Solu	/n
+1480	UPS OnLine Compatible Vendors	Solu	/n
+1481	UPS Proactive Response Secure	Solu	/n
+1482	UPS Ready	Solu	/n
+1483	UPS Ready - Select	Solu	/n
+1484	UPS Ready - Strategic	Solu	/n
+1485	UPS Returns Flexible Access	Solu	/n
+1486	UPS Temperature True Proposal	Solu	/n
+1487	UPS.com - Internet Shipping	Solu	/n
+1488	Verified Customer Generated Label	Solu	/n
+1489	VMI Solution Proposal Preparation	Solu	/n
+1490	WorldShip - Integrated	Solu	/n
+1491	WorldShip - Standalone	Solu	/n
+1492	4420 Europe: Retail Network	Solu	/n
+1493	4450 Europe: ID Check	Solu	/n
+1494	Kiala Locate & Select HTLM iframe	Solu	/n
+1495	Kiala Locate & Select Web Services API	Solu	/n
+1496	PLD 0200 (Europe Only)	Solu	/n
+1497	PLD 0200 + RS(EUrope only)	Solu	/n
+1498	PLD ASCII (Europe Only)	Solu	/n
+1499	PLD Edifact (Europe Only)	Solu	/n
+1500	UPS Connect - Integrated (Americas Region)	Solu	/n
+1501	UPS Connect - Integrated (Canada Only)	Solu	/n
+1502	4211 Europe - EDI Connectivity to Third Party Companies	Solu	/n
+1503	4212 Europe - Self-Billing	Solu	/n
+1504	4213 P-Card Light	Solu	/n
+1505	4471 UPS Customized Shipping Solutions	Solu	/n
+1506	4472 Europe - In-Room Delivery	Solu	/n
+1507	4473 Europe - One Label COD	Solu	/n
+1508	4743 ITPA - On Line Tools	Solu	/n
+1509	4744 ITPA - Reoccurring Solutions Support	Solu	/n
+1510	4745 UPS SampleSure	Solu	/n
+1511	4746 ITPA - Custom Solutions	Solu	/n
+1512	4747 AST - iShip (PSS/DSS)	Solu	/n
+1513	4748 Toolkit or Toolkit Cloud - Non AST	Solu	/n
+1514	4750 ITPA - Label Services	Solu	/n
+1515	4760 ITPA - General Services	Solu	/n
+1516	4765 UPS Global eCommerce Solution	Solu	/n
+1517	4766 UPS iParcel Global eCommerce	Solu	/n
+1518	4779 UPS Click & Collect	Solu	/n
+1519	4780 UPS CompleteView Monitoring	Solu	/n
+1520	4781 UPS Access Points Customer Reporting	Solu	/n
+1521	4782 UPS Access Points Technology Implementation	Solu	/n
+1522	4801 Referral - Executive	Solu	/n
+1523	4802 Referral - Cubiscan	Solu	/n
+1524	4803 ENG - PackSize	Solu	/n
+1525	4804 Referral - OzLink	Solu	/n
+1526	4901 SCO - Carbon Impact Analysis	Solu	/n
+1527	4902 SCO - Contractual Carbon Neutral	Solu	/n
+1528	4903 SCO - Sustainability Admin Fees	Solu	/n
+1529	4904 SCO - Sustainability Consulting	Solu	/n
+1530	4905 SCO - Eco Responsible Licensing	Solu	/n
+1531	4906 SCO - Eco Responsible Evaluation	Solu	/n
+1532	4907 SCO - Transactional Carbon Neutral	Solu	/n
+1533	4908 SCO - Carbon Impact Statement	Solu	/n
+1534	4910 International Dangerous Goods	Solu	/n
+1535	4911 ISC Special Exception	Solu	/n
+1536	4998 Finance Charge	Solu	/n
+1537	9999 Small Package EDI Configurable Request (Tracking, Billing)	Solu	/n
+1538	Address Validation API	Solu	/n
+1539	Executive Logistics Assessment	Solu	/n
+1540	Billing Center	Solu	/n
+1541	Billing Data	Solu	/n
+1542	Billing Data Analysis Tool	Solu	/n
+1543	Brokerage EDI Integration	Solu	/n
+1544	CampusShip	Solu	/n
+1545	Claims on the Web	Solu	/n
+1546	4474 Europe - Other Industrial Engineering	Solu	/n
+1547	4475 Europe - PUDO (Pick-Up and Drop-Off)	Solu	/n
+1548	4476 Europe - SDR (Signed Document Return)	Solu	/n
+1549	4477 Europe - Shipper Release	Solu	/n
+1550	4478 Europe - Undeliverable Manager - Hold/Re-route	Solu	/n
+1551	4770 Europe - EMUS 2 (Electronic Manifest Upload)	Solu	/n
+1552	4771 Europe - ICLS ( In Center Labeling Service)	Solu	/n
+1553	4773 Europe - PIRA 2	Solu	/n
+1554	4774 Europe - PIRA Express Plus / PIRA Enhanced	Solu	/n
+1555	4775 Europe - ROW Ready	Solu	/n
+1556	4776 Europe - SMS Notify	Solu	/n
+1557	4777 ODCS (EMEA Shippers Only)	Solu	/n
+1558	4900 Europe - Sustainability Solutions	Solu	/n
+1559	4920 Europe - UPS Waste Management	Solu	/n
+1560	Europe - BOC - Broker of Choice	Solu	/n
+1561	Europe - Carbon Foot Print Report	Solu	/n
+1562	Europe - Consulting	Solu	/n
+1563	Europe - Customized	Solu	/n
+1564	Europe - DRT (Discrepancy Report Tool)	Solu	/n
+1565	Europe - EDIFACT MAPPING - billing	Solu	/n
+1566	Europe - EDIFACT MAPPING - customs	Solu	/n
+1567	Europe - EDIFACT MAPPING - other	Solu	/n
+1568	Europe - EDIFACT MAPPING - shipping	Solu	/n
+1569	Europe - EDIFACT MAPPING - visibility	Solu	/n
+1570	Europe - EMUS (Electronic Manifest Upload System)	Solu	/n
+1571	Europe - FTZ - Free Trade Zone	Solu	/n
+1572	Europe - Hosting Solutions	Solu	/n
+1573	Europe - Import and Brokerage Solutions	Solu	/n
+1574	Europe - International Returns	Solu	/n
+1575	Europe - KPI Reporting	Solu	/n
+1576	Europe - Other Automotive	Solu	/n
+1577	Europe - Other Import and Brokerage Solutions	Solu	/n
+1578	Europe - Other IT Services	Solu	/n
+1579	Europe - Other Package Lab	Solu	/n
+1580	Europe - Other Plant Engineering	Solu	/n
+1581	Europe - Other Referral Fees	Solu	/n
+1582	Total Mail Innovations	MISC	/n
+1583	All Other	IAPP	/n
+1584	Total North American Air Freight	SCSP	/n
+1585	Total Ocean Freight	SCSP	/n
+1586	Total Ground Freight	SCSC	/n
+1587	UPS Express Freight	SCSP	/n
+1588	Ocean Other	SCSP	/n
+1589	Trade Direct	IATP	/n
+1590	Brokerage	IAMP	/n
+1591	Other	IAMP	/n
+1592	Total Transportation District Svcs	SCSP	/n
+1593	Total Mail Innovations	MI	/n
+1594	Total North American Air Freight	SCSC	/n
+1595	Domestic Express	IEUC	/n
+1596	TB Standard Prepaid Commercial	IEUP	/n
+1597	Total Transportation District Svcs	SCSC	/n
+1598	Trade Direct	IETC	/n
+1599	Trade Direct All Other	IATC	/n
+1600	Total LTL Cross Border	OVP	/n
+1601	LTL Trade Show	OVSC	/n
+1602	Worldwide Express Freight	IEUC	/n
+1603	Trade Direct	IPTC	/n
+1604	Total US International	US	/n
+1605	Mail Innovations International	MI	/n
+1606	Accessorial/Miscellaneous	US	/n
+1607	Trade Direct	IPTP	/n
+1608	Total UPS Capital Corp	CAPC	/n
+1609	3rd Party 3rd Cty	IAPC	/n
+1610	WW/US Standard EFC	IAMP	/n
+1611	Other Products	US	/n
+1612	3rd Party 3rd Cty	IAPP	/n
+1613	UPS Air Freight Consolidated	SCSP	/n
+1614	Total UPS Next Day Air Freight	SCSP	/n
+1615	Total UPS 2nd Day Air Freight	SCSP	/n
+1616	UPS 3 Day Freight	SCSP	/n
+1617	LTL Cross Border Hawaii	OVSC	/n
+1618	Transportation District Services	SCSP	/n
+1619	Total US Access/ Misc/ Other	US	/n
+1620	Total UPS Freight LTL	OVP	/n
+1621	Total UPS Freight Other	OVP	/n
+1622	Total UPS Freight TL	OVP	/n
+1623	Total UPS Air Freight Direct	SCSC	/n
+1624	UPS Air Freight Consolidated	SCSC	/n
+1625	Total UPS Next Day Air Freight	SCSC	/n
+1626	Total UPS 2nd Day Air Freight	SCSC	/n
+1627	Transportation District Services	SCSC	/n
+1628	Mail Innovations United States	MISC	/n
+1629	Total Asia Pacific	IAPC	/n
+1630	Total Americas	IAMC	/n
+1631	UPS Next Day Air Freight	SCSP	/n
+1632	Total Distribution	SCSP	/n
+1633	US International IFC	US	/n
+1634	Trade Direct All Other	IPTC	/n
+1635	Trade Direct All Other	IETP	/n
+1636	Total US Commercial + CWT	US	/n
+1637	Trade Direct All Other	IPTP	/n
+1638	WW Express + Saver	US	/n
+1639	Next Day Air	US	/n
+1640	LTL Cross Border Puerto Rico	OVSC	/n
+1641	Residential	US	/n
+1642	WW Express Freight	US	/n
+1643	UPS Capital Cargo	CAPC	/n
+1644	Deferred Air (2DA & 3DS)	US	/n
+1645	Total Forwarding	SCSP	/n
+1646	WW/US Export Standard EFC	IAMC	/n
+1647	Total LTL Standard	OVP	/n
+1648	WW/US Export Express PP	IAMP	/n
+1649	Total LTL Specialty Markets	OVP	/n
+1650	UPS Temperature True Air Direct	SCSP	/n
+1651	Total LTL Standard	OVSC	/n
+1652	UPS 2nd Day Air Freight	SCSP	/n
+1653	Domestic Standard Commercial	IEUC	/n
+1654	LTL Day Definite Pay Guaranteed	OVP	/n
+1655	UPS Temperature True 2nd Day Air	SCSP	/n
+1656	Ocean LCL Premium	SCSP	/n
+1657	Total Asia Pacific	IAPP	/n
+1658	Ocean LCL	SCSP	/n
+1659	Customs Brokerage	SCSP	/n
+1660	Export Prepaid - Americas	IAMC	/n
+1661	Ocean FCL	SCSP	/n
+1662	Credit Insurance	CAPC	/n
+1663	Finance	CAPC	/n
+1664	Total US Residential	US	/n
+1665	Mail Innovations International	MISC	/n
+1666	CDV	CAPC	/n
+1667	iCDV	CAPC	/n
+1668	Total Distribution Services	SCSC	/n
+1669	Transborder - EU - Europe	IEUC	/n
+1670	Jewelers Elite	CAPC	/n
+1671	Credit Insurance	CAPC	/n
+1672	Domestic	IAPC	/n
+1673	All Other	IEUC	/n
+1674	Total Trade Direct - Americas	IATP	/n
+1675	Proactive	CAPC	/n
+1676	Channel Partner	CAPC	/n
+1677	Multi-Carrier	CAPC	/n
+1678	i-parcel Select	US	/n
+1679	Cargo Finance Group	CAPC	/n
+1680	Global Asset-Based Lending	CAPC	/n
+1681	Ground Freight	SCSC	/n
+1682	COD Enhancement Services	CAPC	/n
+1683	Fraud Protection Group	CAPC	/n
+1684	Total Post Sales Service	SCSP	/n
+1685	Merchant Services Group	CAPC	/n
+1686	G UPS Air Freight Direct	SCSG	/n
+1687	Total GRATE UPS Express Freight	SCSG	/n
+1688	Cargo Insurance Group	CAPC	/n
+1689	Customized Declared Value	CAPC	/n
+1690	Flexible Parcel Insurance	CAPC	/n
+1691	Payment Solutions	CAPC	/n
+1692	Domestic Ground	IAMP	/n
+1693	Insurance	CAPC	/n
+1694	House Policy	CAPC	/n
+1695	Flex Parcel Insurance	CAPC	/n
+1696	G UPS Express Freight	SCSG	/n
+1697	G UPS Temperature True Express	SCSG	/n
+1698	G UPS Temperature True Air Direct	SCSG	/n
+1699	Total Europe	IEUC	/n
+1700	Trade Direct All Other	IETC	/n
+1701	G UPS Air Freight Consolidated	SCSG	/n
+1702	Total GRATE UPS Air Freight Direct	SCSG	/n
+1703	Total GRATE Intl Air Freight	SCSG	/n
+1704	Ground CWT	US	/n
+1705	Mail Innovations United States	MI	/n
+1706	Total Post Sales Service	SCSC	/n
+1707	Miscellaneous	SCSP	/n
+1708	Express Critical	SCSC	/n
+1709	Miscellaneous	SCSC	/n
+1710	Total Brokerage	SCSP	/n
+1711	Express Critical	SCSP	/n
+1712	WW Express Freight IFC	US	/n
+1713	Total Distribution Services	SCSP	/n
+1714	Total Others	SCSP	/n
+1715	Total Brokerage	SCSC	/n
+1716	Commercial	US	/n
+1717	Total Others	SCSC	/n
+1718	UPS Temperature True Express	SCSP	/n
+1719	Total UPS Freight LTL	OVSC	/n
+1720	UPS SurePost	US	/n
+1721	UPS 3 Day Freight	SCSC	/n
+1722	UPS Temperature True Next Day Air	SCSP	/n
+1723	LTL Urgent	OVSC	/n
+1724	Total UPS Freight TL	OVSC	/n
+1725	3P3C - Asia Pacific	IAPP	/n
+1726	Total UPS Freight Other	OVSC	/n
+1727	WW Expedited + Transborder	US	/n
+1728	Total WW Expedited + Transborder	US	/n
+1729	Total Other - Europe	IEUC	/n
+1730	Total US International IFC	US	/n
+1731	Total US International Export	US	/n
+1732	Open Cargo	CAPC	/n
+1733	Customs Brokerage	SCSC	/n
+1734	Total Domestic - Asia Pacific	IAPC	/n
+1735	All Other	IEUP	/n
+1736	Total International - Asia Pacific	IAPC	/n
+1737	Distribution Services	SCSC	/n
+1738	Post Sales Service	SCSC	/n
+1739	Total Other - Asia Pacific	IAPC	/n
+1740	Total US Air	US	/n
+1741	Total UPS Air Freight Direct	SCSP	/n
+1742	Total International - Europe	IEUC	/n
+1743	Total Domestic - Europe	IEUP	/n
+1744	Total Domestic - Europe	IEUC	/n
+1745	Total International - Europe	IEUP	/n
+1746	Total Domestic - Americas	IAMC	/n
+1747	All Other	IAPC	/n
+1748	Total US Trade Direct	USTD	/n
+1749	Trade Direct All Other	IATP	/n
+1750	TB Standard Prepaid Residential	IEUP	/n
+1751	Total Other - Europe	IEUP	/n
+1752	Total Europe	IEUP	/n
+1753	UPS Air Freight Direct	SCSP	/n
+1754	Trade Direct	IATC	/n
+1755	Total US Ground	US	/n
+1756	Total UPS Express Freight	SCSP	/n
+1757	Total International - Americas	IAMC	/n
+1758	Total Trade Direct - Americas	IATC	/n
+1759	Total Other - Asia Pacific	IAPP	/n
+1760	Total Other - Americas	IAMC	/n
+1761	Total International - Asia Pacific	IAPP	/n
+1762	Trade Direct	IETP	/n
+1763	Total UPS Express Freight	SCSC	/n
+1764	Transborder - EU - Europe	IEUP	/n
+1765	Total Domestic - Asia Pacific	IAPP	/n
+1766	Domestic Ground	IAMC	/n
+1767	Total Other - Americas	IAMP	/n
+1768	Domestic Express	IAMC	/n
+1769	Brokerage	IAMC	/n
+1770	Total Trade Direct - Asia Pacific	IPTP	/n
+1771	Total International Air Freight	SCSP	/n
+1772	Other	IAMC	/n
+1773	Total International - Americas	IAMP	/n
+1774	Domestic Express	IAMP	/n
+1775	Total Domestic - Americas	IAMP	/n
+1776	Total WW Express	US	/n
+1777	Total Trade Direct - Europe	IETC	/n
+1778	Total Trade Direct - Europe	IETP	/n
+1779	Total Trade Direct - Asia Pacific	IPTC	/n
+1780	Total Ground Freight	SCSP	/n
+1781	Total International Air Freight	SCSC	/n
+1782	Domestic	IAPP	/n
+1783	Total Ocean Freight	SCSC	/n
+1784	Total GRATE	SCSG	/n
+1785	Total Payor	NA	/n
+1786	Total Shipper Consignee	NA	/n
+1787	Total Compensable	NA	/n
+1788	Total All Products	NA	/n
+1789	4480 - UPS Proactive Response	Solu	/n
+1790	4296 PM CST	Solu	/n
+1791	Europe - APS (Automated Pickup Systems)	Solu	/n
+1792	ERD - Early Retail Delivery	Solu	/n
+1793	4768 Mobile Returns	Solu	/n
+1794	Dangerous Goods API	Solu	/n
+1795	4231 UPS Direct To Mobile	Solu	/n
+1796	4454 - Optoro	Solu	/n
+1797	No Product Selected	Solu	/n
+2120	No Product Selected	NULL	/n
+2121	4767 Recovery/Reroute	Solu	/n
+2122	Pre Notification API	Solu	/n
+2123	Total US International	NULL	/n
+2124	Express Critical	NULL	/n
+2125	Next Day Air	NULL	/n
+2126	Returns Manager	Solu	/n
+2247	4421 SCO - DirectShip - Heavy Goods	Solu	/n
+2248	4433 SCO - Network Analysis/Opt (Tier 2-N. America In/Out-Multi Mode)	Solu	/n
+2249	4434 SCO - Network Analysis/Opt (Tier 3-Int In/Out-Multi Mode)	Solu	/n
+2250	4451 SCO - DirectShip - Coyote.com Integration	Solu	/n
+2251	4452 SCO - Consulting - Whiteboard	Solu	/n
+2252	4453 SCO - Inventory Target Levels/Policy Development	Solu	/n
+2253	4455 SCO - Simulation of Inventory Needs	Solu	/n
+2254	4456 SCO - Inventory Control	Solu	/n
+2255	4457 SCO - Vendor WMS	Solu	/n
+2256	4458 SCO - UPS Product Location Analysis	Solu	/n
+2257	4459 SCO -SKU Analysis (Performance, Rationalization, Classification)	Solu	/n
+2258	4460 SCO - Safety Stock Optimization	Solu	/n
+2259	4732 TrackPad Hosting	Solu	/n
+2260	Rollor Packaging	Solu	/n
+2261	4435 SCO - Customized TNT Reporting	Solu	/n
+2262	4436 SCO - Fleet/Route Optimization	Solu	/n
+2263	4409 SCO - TIB - Transportation Interactive Baseline	Solu	/n
+2264	Deliv	Solu	/n
+2265	Small Package EDI 215 - 4030 (Manifest)	NULL	/n
+2266	UPS TradeAbility - Export License Detector (Web Services)	NULL	/n
+2267	4290 Dedicated Teams	NULL	/n
+2268	UPS Freight  - EDI 990 (Response to a Load Tender - LTL & FTL)	NULL	/n
+2269	4409 SCO - TIB - Transportation Interactive Baseline	SOLU	/n
+2270	4907 SCO - Transactional Carbor Neutral	NULL	/n
+2271	4908 SCO - Carbon Impact Statement	NULL	/n
+2272	Brokerage (CUSPED/EDIFACT)	NULL	/n
+2273	Brokerage (PRODAT/EDIFACT)	NULL	/n
+2274	Brokerage (888/4010)	NULL	/n
+2275	4841 AST-ShipExec/ConnectShip Reengagement	Solu	/n
+2276	4842 AST-ShipExec/ConnectShip Consulting Only	Solu	/n
+2277	TradeAbility Suite API	NULL	/n
+2278	TradeAbility Suite (UPS.com)	NULL	/n
+2279	4292 PM TOMS - Level 1 - Classic	Solu	/n
+2280	4293 PM TOMS - Level 2 - Professional	Solu	/n
+2281	4294 PM TOMS - Level 3 - Platinum	Solu	/n
+2282	4295 PM TOMS - Level 4 - Platinum Plus	Solu	/n
+2283	5001 Deployment - Address Validation	Solu	/n
+2284	5002 Deployment - BART	Solu	/n
+2285	5003 Deployment - Batch Tracking	Solu	/n
+2286	5004 Deployment - Data Analysis	Solu	/n
+2287	5005 Deployment - IT Consulting	Solu	/n
+2288	5006 Deployment - Mac Tool	Solu	/n
+2289	5007 Deployment - Office Manager	Solu	/n
+2290	5008 Deployment – Project Management	Solu	/n
+2291	5009 Deployment - Reocurring Reports	Solu	/n
+2292	4297 PM-Reporting	Solu	/n
+2293	4298 PM-Track & Trace	Solu	/n
+2294	4299 PM-Business Review Support	Solu	/n
+2295	4461 SCO - Inventory Strategy Formulation	Solu	/n
+2296	Total US International	NULL	/n
+2297	4761 ITPA - UPS Select Pickup Manager	SOLU	/n
